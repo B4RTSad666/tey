@@ -321,7 +321,7 @@ function draw.indicator(r, g, b, a, string)
     return new.y
 end
 
-local font = draw_CreateFont("verdana", 30, 2000)
+local font = draw_CreateFont("verdana", 22, 2000)
 
 local draw_gradient = draw.gradient
 
